@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="016f2921-fa3c-4f9f-b351-457bf81a66e2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SetImplementation/Day.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SetImplementation/SpecialPurposeSetImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SetImplementation/GeneralPurposeSetImplementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -39,19 +33,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="SetImplementation" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.GeneralPurposeSetImplementation">
+    <configuration name="GeneralPurposeSetImplementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SetImplementation.GeneralPurposeSetImplementation" />
+      <module name="Hazra_Nandita_Java_Implementations_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SetImplementation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetImplementations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SetImplementations" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SpecialPurposeSetImplementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SetImplementation.SpecialPurposeSetImplementation" />
       <module name="Hazra_Nandita_Java_Implementations_Project" />
@@ -67,6 +80,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GeneralPurposeSetImplementation" />
+        <item itemvalue="Application.SetImplementations" />
         <item itemvalue="Application.SpecialPurposeSetImplementation" />
       </list>
     </recent_temporary>
@@ -80,6 +95,18 @@
       <option name="presentableId" value="Default" />
       <updated>1666600404532</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added Java Enum: Day.java&#10;Added Java program: SpecialPurposeSetImplementation.java">
+      <created>1666606570932</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666606570932</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Java Enum: Day.java&#10;Added Java program: SpecialPurposeSetImplementation.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Java Enum: Day.java&#10;Added Java program: SpecialPurposeSetImplementation.java" />
   </component>
 </project>

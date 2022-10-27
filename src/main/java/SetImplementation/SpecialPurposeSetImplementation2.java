@@ -15,8 +15,8 @@ public class SpecialPurposeSetImplementation2
 {   //Start of main class.
 
     /* CopyOnWriteArraySet is
-    * a Set implementation
-    * where the add operation,
+    * a Set implementation,
+    * where the add operation
     * is implemented by making
     * a new copy of the array;
     * no locking is ever required.
@@ -24,7 +24,7 @@ public class SpecialPurposeSetImplementation2
     * remove operation on Set elements
     * is not supported.
     * This implementation
-    * is only appropriate for sets
+    * is only appropriate for Sets
     * that are rarely modified,
     * but frequently iterated. */
 
@@ -34,11 +34,11 @@ public class SpecialPurposeSetImplementation2
 
     // Thread to add element in Set.
     public void run()
-    {   // Start of adding element in Set thread.
+    {   // Start of the thread to add element in Set.
 
         arraySet.add("D");
 
-    }   // End of adding element in Set thread.
+    }   // End of the thread to add element in Set.
 
     // Starting point of execution.
     public static void main(String[] args)
@@ -51,11 +51,12 @@ public class SpecialPurposeSetImplementation2
         SpecialPurposeSetImplementation2 addThread
                 = new SpecialPurposeSetImplementation2();
 
-        // Initiating add element to Set thread.
+        // Initiating the thread to add element in Set.
         addThread.start();
 
         /* Exception handling block
-        * for execution of add element to Set thread. */
+        * for execution of the thread
+        * to add element in Set. */
         try
         {   // Start of try block.
 
@@ -71,7 +72,7 @@ public class SpecialPurposeSetImplementation2
                     + e
             );
 
-        }
+        }   // End of catch block.
 
         // Printing Set on console.
         System.out.println(
@@ -92,7 +93,7 @@ public class SpecialPurposeSetImplementation2
             // Printing iterated element of the Set.
             System.out.println(element);
 
-            /* Removing C element from the Set,
+            /* Removing an element from the Set,
             * which is not permitted during iteration
             * for CopyOnWriteArraySet class. */
             if (element.equals("C"))

@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="016f2921-fa3c-4f9f-b351-457bf81a66e2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/SetImplementation/SpecialPurposeSetImplementation2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SetImplementation/SpecialPurposeListImplementation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SetImplementation/GeneralPurposeListImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SetImplementation/GeneralPurposeListImplementation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SetImplementation/SpecialPurposeSetImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SetImplementation/SpecialPurposeSetImplementation1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SetImplementation/SpecialPurposeSetImplementation2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SetImplementation/SpecialPurposeSetImplementation2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +46,7 @@
       <recent name="SetImplementation" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SpecialPurposeSetImplementation1">
+  <component name="RunManager" selected="Application.SpecialPurposeListImplementation">
     <configuration name="GeneralPurposeListImplementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SetImplementation.GeneralPurposeListImplementation" />
       <module name="Hazra_Nandita_Java_Implementations_Project" />
@@ -74,8 +73,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetImplementations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SetImplementations" />
+    <configuration name="SpecialPurposeListImplementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SetImplementation.SpecialPurposeListImplementation" />
+      <module name="Hazra_Nandita_Java_Implementations_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SetImplementation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -108,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SpecialPurposeListImplementation" />
         <item itemvalue="Application.SpecialPurposeSetImplementation1" />
         <item itemvalue="Application.SpecialPurposeSetImplementation2" />
         <item itemvalue="Application.GeneralPurposeListImplementation" />
         <item itemvalue="Application.GeneralPurposeSetImplementation" />
-        <item itemvalue="Application.SetImplementations" />
       </list>
     </recent_temporary>
   </component>
@@ -146,13 +152,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666660426585</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added Java program: SpecialPurposeSetImplementation2.java and modified Java programs: SpecialPurposeSetImplementation1.java and Day.java">
+      <created>1666844368973</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666844368973</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Java Enum: Day.java&#10;Added Java program: SpecialPurposeSetImplementation.java" />
     <MESSAGE value="Added Java program: GeneralPurposeSetImplementation.java" />
     <MESSAGE value="Added Java program: GeneralPurposeListImplementation.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Java program: GeneralPurposeListImplementation.java" />
+    <MESSAGE value="Added Java program: SpecialPurposeSetImplementation2.java and modified Java programs: SpecialPurposeSetImplementation1.java and Day.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Java program: SpecialPurposeSetImplementation2.java and modified Java programs: SpecialPurposeSetImplementation1.java and Day.java" />
   </component>
 </project>

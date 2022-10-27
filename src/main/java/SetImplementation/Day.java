@@ -12,11 +12,11 @@ public enum Day
     /* As the days of week
     * are constants,
     * they are in uppercase. */
-    SUNDAY,
     MONDAY,
     TUESDAY,
     WEDNESDAY,
     THURSDAY,
     FRIDAY,
-    SATURDAY
+    SATURDAY,
+    SUNDAY
 }

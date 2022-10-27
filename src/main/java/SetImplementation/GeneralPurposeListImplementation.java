@@ -67,10 +67,10 @@ public class GeneralPurposeListImplementation
                 + '\n'
                 + numberList);
 
-        // Removing even numbers from the list.
-        for (int i = 1;
+        // Removing numbers from the list.
+        for (int i = 0;
              i <= 6;    // As it's a dynamic array, as soon as one number is removed, its position will be filled by the number adjascent to it.
-             i = i + 2)
+             i = i+3)
         {   // Start of for loop.
 
             numberList.remove(i);
